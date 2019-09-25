@@ -1,5 +1,10 @@
 # R script to accompany Intro to R
-# Copy for Evan Mahaffey
+#
+# Written by Evan Mahaffey
+#
+# Copy for egmahaffey
+#
+# Customized for egmahaffey
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
